@@ -216,8 +216,8 @@ GitHub → Jenkins → Docker → Kubernetes → AWS
 
 Aspiring DevOps Engineer 🚀
 
-GitHub: https://github.com/YOUR_USERNAME
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+GitHub: https://github.com/mofarhankhan
+
 
 ---
 
